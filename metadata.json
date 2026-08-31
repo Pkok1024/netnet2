@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Net Speed Indicator2",
+  "description": "Real-time network speed monitor, live traffic graph, floating bubble overlay, diagnostics and Android 16 promoted notification indicator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
